@@ -28,3 +28,7 @@
 
 - `yarn add redux react-redux @reduxjs/toolkit redux-logger`
 - `yarn add -D @types/react-redux @types/redux-logger`
+
+## 参考ページ
+
+- [参考](https://zenn.dev/higa/articles/d7bf3460dafb1734ef43#%E6%8A%80%E8%A1%93%E9%81%B8%E5%AE%9A)
