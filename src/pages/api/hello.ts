@@ -5,5 +5,5 @@ type Response = {
   json({ name: string }): void;
 };
 export default (req, res) => {
-  res.status(200).json({ name: "John Doe" });
+  res.status(200).json({ name: 'John Doe' });
 };

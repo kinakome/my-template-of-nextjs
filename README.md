@@ -22,3 +22,4 @@
 - `.eslintrc.json` の作成
 - `.prettierrc.json` の作成 （詳しい設定については後ほど）
 - package.json に`"eslint:fix": "eslint . --ext .js,.ts,.jsx,.tsx --fix"`および`"prettier:fix": "prettier --write ."`を追加
+- `yarn prettier:fix`を実行
