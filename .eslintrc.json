@@ -34,6 +34,10 @@
     "plugin:react-hooks/recommended",
     "prettier"
   ],
+  "ignorePatterns": [
+    // Storybook の設定フォルダを追加する
+    "!.storybook"
+  ],
   "rules": {
     // TypeScirpt なので prop-types は要らない
     "react/prop-types": "off"
